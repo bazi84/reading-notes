@@ -5,4 +5,5 @@
 - idea3
 
 **This is some bold text**
-*italicized*
+
+*This is italicized*
