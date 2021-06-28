@@ -5,7 +5,8 @@
 - idea2
 - idea3
 
-#Growth Mindset
+## Growth Mindset
+
 *To me growth mindset is a continious learning process thru failure and reviews and set up for myself ideal goals that will motivate me to continue in my pursuit.
 1. To remind myself daily why am I pursuing this path
 2. what do I want to gain and acheive from this new skills
