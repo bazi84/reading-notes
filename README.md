@@ -1,9 +1,12 @@
 # reading-notes
 ## My name is Abdulkadir Aka Bazi84
 
-- idea1
-- idea2
-- idea3
+- [css reflections](css.md)
+- [cloud and git reflection](cloud-git.md)
+- [coder reflections](coder'sreflection.md)
+- [html reflections](html.md)
+- [Java reflections](javareadingreflection.md)
+- [markdown reflections](markdown.md)
 
 ## Growth Mindset
 
@@ -17,11 +20,6 @@
 *This is italicized*
 
 [Code Fellows](https://www.codefellows.org)
-
-### What I learned about Markdown <h3>
-
-*Makrdown is a simplified html version that is just regular text and character symbols to style a web page.
-  
   
   
 ![artworks-000348139872-yd14uf-t500x500](artworks-000348139872-yd14uf-t500x500)
