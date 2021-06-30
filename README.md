@@ -3,9 +3,9 @@
 
 - [css reflections](css.md)
 - [cloud and git reflection](cloud-git.md)
-- [coder's reflections](coder's reflection.md)
+- [coder reflections](coder'sreflection.md)
 - [html reflections](html.md)
-- [Java reflections](java reading reflection.md)
+- [Java reflections](javareadingreflection.md)
 - [markdown reflections](markdown.md)
 
 ## Growth Mindset
