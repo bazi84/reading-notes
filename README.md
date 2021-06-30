@@ -6,7 +6,9 @@
 - [coder reflections](coder'sreflection.md)
 - [html reflections](html.md)
 - [Java reflections](javareadingreflection.md)
+- [Java variables reflections](javascriptvariablesreflections.md)
 - [markdown reflections](markdown.md)
+
 
 ## Growth Mindset
 
