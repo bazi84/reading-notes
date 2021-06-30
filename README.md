@@ -1,7 +1,7 @@
 # reading-notes
 ## My name is Abdulkadir Aka Bazi84
 
-- idea1
+- [idea1](css.md)
 - idea2
 - idea3
 
