@@ -2,8 +2,7 @@
 
 # reading-notes repositories.
 - # *[Revisions and cloud and git reflection](cloud-git.md)*
-- [Programming wiht Java reading reflections]
-(programmingwithjavareflections.md) 
+- # *[Dynamic web pages with Javascript notes](programmingwithjavareflections.md)* 
 - [Read-08-Operators and loops](Read-o8-Operatorsandloops.md)
 [css reflections](css.md)
 - [cloud and git reflection](cloud-git.md)
